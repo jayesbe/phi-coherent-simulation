@@ -1,4 +1,4 @@
-# Phi-Coherent Atmospheric Energy Transduction — Interactive Simulation
+# Phi-Coherent — Interactive Simulation
 
 © 2026 Jaspreet Badwal. All rights reserved. Patent pending.
 
